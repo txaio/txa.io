@@ -33,6 +33,7 @@ owner:
   bio: "Describe your self."
   twitter: txaio
   github: txaio
+  disqus-shortname: txaio
 
 # Build settings
 markdown: kramdown
