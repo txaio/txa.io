@@ -17,5 +17,32 @@ url: "https://txa.io" # the base hostname & protocol for your site
 twitter_username: txaio
 github_username:  txaio
 
+# Jekyll settings
+permalink:   /:title/
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+# Site owner
+owner:
+  name: Your Name
+  avatar: bio-photo.jpg
+  bio: "Describe your self."
+  twitter: txaio
+  github: txaio
+
 # Build settings
 markdown: kramdown
+
+# Kramdown settings
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+
+
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
