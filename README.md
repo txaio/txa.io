@@ -3,6 +3,7 @@ txa.io jekyll repository
 
 ## Made with love using
 - Archlinux [https://www.archlinux.org](https://www.github.com)
+- Homebrew [http://brew.sh](http://brew.sh)
 - NGINX [http://nginx.org](http://nginx.org)
 - Letsencrypt [https://letsencrypt.org](https://letsencrypt.org)
 - Unicorn [https://github.com/defunkt/unicorn](https://github.com/defunkt/unicorn)
