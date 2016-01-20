@@ -5,6 +5,7 @@ excerpt: "The kickass &amp; less painful Certificate Authority"
 author: thayoz
 tags: [ssl/tls,certificates,encryption]
 share: true
+comments: true
 ---
 About a couple of weeks ago [Let's Encrypt](https://letsencrypt.org/) went on the public beta phase. Let’s Encrypt is a new zero-cost X.509 Certificate Authority that supports the Automated Certificate Management Environment (ACME) protocol.
 ACME reduces the effort of dealing with x509 certificates. This protocol allows to automatically create and retrieve SSL/TLS certificate using a challenge-response pattern between the CA and the host requesting the certificate.

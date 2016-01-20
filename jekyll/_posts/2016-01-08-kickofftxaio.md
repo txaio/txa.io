@@ -5,6 +5,7 @@ excerpt: "txa.io goes live: Bonjour, Bongiorno, Hallo, Hello"
 author: thayoz
 tags: [txa.io]
 share: true
+comments: true
 ---
 ### The Why & What
 After a couple of beers to figure out we wanted to have a technical blog. We enjoyed some more in order to boost up creativity to find a great idea for a domain name. He it is [txa.io](https://txa.io) ! It stands for Techkies (X)across the Alps. Since the scope of this blog will highly technical (Code, Tip-Tricks, Hacking, Web stuff security) if would be directed but not limited to the techkies living around the Alps.
